@@ -28,6 +28,7 @@
 		04143CFA194653E5002EAF94 /* hello */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hello; sourceTree = BUILT_PRODUCTS_DIR; };
 		04143CFD194653E5002EAF94 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		04143CFF194653E5002EAF94 /* hello.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = hello.1; sourceTree = "<group>"; };
+		04143D06194656A2002EAF94 /* hello.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hello.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				04143CFD194653E5002EAF94 /* main.c */,
+				04143D06194656A2002EAF94 /* hello.h */,
 				04143CFF194653E5002EAF94 /* hello.1 */,
 			);
 			path = hello;
