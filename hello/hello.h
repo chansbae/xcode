@@ -9,6 +9,6 @@
 #ifndef hello_hello_h
 #define hello_hello_h
 
-#define SMAX 1000
+#define SMAX 500
 
 #endif
